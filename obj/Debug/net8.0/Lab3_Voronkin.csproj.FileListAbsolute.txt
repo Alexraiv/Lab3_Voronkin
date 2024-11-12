@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\bin\Debug\net8.0\Lab3_Voronkin.exe
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\bin\Debug\net8.0\Lab3_Voronkin.deps.json
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\bin\Debug\net8.0\Lab3_Voronkin.runtimeconfig.json
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\bin\Debug\net8.0\Lab3_Voronkin.dll
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\bin\Debug\net8.0\Lab3_Voronkin.pdb
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\Lab3_Voronkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\Lab3_Voronkin.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\Lab3_Voronkin.AssemblyInfo.cs
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\Lab3_Voronkin.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\Lab3_Voronkin.dll
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\refint\Lab3_Voronkin.dll
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\Lab3_Voronkin.pdb
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\Lab3_Voronkin.genruntimeconfig.cache
+C:\Users\Denis\source\repos\Lab3_Voronkin\Lab3_Voronkin\obj\Debug\net8.0\ref\Lab3_Voronkin.dll
